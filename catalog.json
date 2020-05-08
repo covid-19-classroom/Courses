@@ -1,7 +1,10 @@
 {
   "title": "Covid-19 Classroom catalog",
-  "owners": { "MyLearning": ["all"] },
-  "viewers": { "MyLearning": ["all"], "all": ["all"] },
+  "owners": { "f": ["all"] },
+  "viewers": { 
+    "mylearning": ["all"], 
+    "all": ["all"] 
+  },
   "editors": {},
   "copyright": {},
   "catalogInfo": {},
